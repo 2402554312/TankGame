@@ -1,1 +1,0 @@
-# hspedu_project
